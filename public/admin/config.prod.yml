@@ -18,3 +18,5 @@ backend:
   name: github
   repo: fmoh/tecnodigital
   branch: main
+  base_url: https://tecnodigital-one.vercel.app/
+  auth_endpoint: api/auth

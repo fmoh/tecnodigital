@@ -6,8 +6,8 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
+    "build": "shx cp public/admin/config.prod.yml public/admin/config.yml && astro build",
+    "develop": "shx cp public/admin/config.dev.yml public/admin/config.yml && vercel dev",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -16,7 +16,12 @@
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "astro": "^6.2.2",
+    "axios": "^1.16.0",
     "decap-cms-app": "^3.12.2",
+    "next": "^16.2.4",
     "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "shx": "^0.4.0"
   }
 }
