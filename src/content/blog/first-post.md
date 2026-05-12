@@ -2,7 +2,6 @@
 title: Hola Tecnos
 description: Lorem ipsum dolor sit amet
 pubDate: Jul 08 2022
-updatedDate: 2026-05-05T22:36:00.000-03:00
 heroImage: ../../assets/images/02-artemis-ii-lunar-flyby-wallpaper-earthset-image.jpg
 thumbnail: ../..s/assets/images/techno-7259402_1280.webp
 date: 2026-05-05T21:37:00.000-03:00
