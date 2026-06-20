@@ -1,8 +1,12 @@
 ---
 layout: blog
-title: WALL-E
-description: Lovely
-pubDate: 2026-05-06T00:48:00.000-03:00
-heroImage: ../../assets/images/walle.jpg
+title: Tetris
+description: "Juego de lógica espacial "
+pubDate: 2026-05-20T13:35:00.000-03:00
+heroImage: ../../assets/images/1000521710.png
 ---
-Robot
+Es un juego de lógica espacial cuyo objetivo es encastrar las piezas conformen van bajando.
+
+Acá va a trabajar Danote!
+
+Click aquí para descargar
