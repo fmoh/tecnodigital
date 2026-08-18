@@ -10,3 +10,5 @@ Es un juego de lógica espacial cuyo objetivo es encastrar las piezas conformen 
 Acá va a trabajar Danote!
 
 Click aquí para descargar
+
+Estamos construyendo el sitio. En estos meses la idea es que puedan descargar el programa. Disculpen las molestias. Fede.
