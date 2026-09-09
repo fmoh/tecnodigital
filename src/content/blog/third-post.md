@@ -1,6 +1,6 @@
 ---
 title: Pac man
-description: Lorem ipsum dolor sit amet
+description: Juego On line
 pubDate: Jul 22 2022
 heroImage: ../../assets/images/pac-man.jpg
 ---
