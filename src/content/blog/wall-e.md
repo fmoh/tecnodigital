@@ -7,4 +7,4 @@ heroImage: ../../assets/images/1000521710.png
 ---
 Es un juego de lógica espacial cuyo objetivo es encastrar las piezas conformen van bajando.
 
-[Click aquí ](https://www.freetetris.org/)para Jugar
+[Click aquí ](https://tetrismania.net/)para Jugar
