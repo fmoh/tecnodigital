@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Tetris
+title: Tetris1
 description: "Juego de lógica espacial "
 pubDate: 2026-09-26T08:50:00.000-03:00
 heroImage: ../../assets/images/1000521710.png
