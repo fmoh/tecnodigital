@@ -2,7 +2,7 @@
 layout: blog
 title: Adventure Island
 description: Juego retro
-pubDate: 2026-10-20T16:09:00.000-03:00
+pubDate: 2026-10-20T16:13:00.000-03:00
 heroImage: ../../assets/images/adventure-island.jfif
 ---
 Hola a todas, les dejo este inigualable juego para el celu o la pc:
