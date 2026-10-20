@@ -3,7 +3,7 @@ layout: blog
 title: "Adventure Island "
 description: Juego retro
 pubDate: 2002-11-22T11:33:00.000-03:00
-heroImage: ../../assets/images/adventure-island-3.jpg
+heroImage: ../../assets/images/1000521710.png
 ---
 Hola a todas, les dejo este inigualable juego para el celu o la pc:
 
